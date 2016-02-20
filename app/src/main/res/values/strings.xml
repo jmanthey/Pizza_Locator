@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pizza Locator</string>
+    <string name="locationSelect">Select a Location</string>
+    <string name="findPizza">Find Pizza</string>
+
+    <string-array name="Dominoes">
+        <item>4960 Miller Trunk Hwy Duluth, MN 55811</item>
+        <item>309 E Central Entrance Duluth, MN 55811</item>
+        <item>1701 Woodland Ave Duluth, MN 55803</item>
+        <item>309 N. Central Ave Duluth, MN 55807</item>
+        <item>1204 Bellknap Street Superior, WI 54880</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="dominoesSelected">Dominoes Selected</string>
+    <string name="message">message</string>
+</resources>
